@@ -1,0 +1,92 @@
+23 July 2024
+Today:
+- Test valuable detail E2E.
+- Test bank account name language.
+onboarding-service:
+- fix/confirm-suitability-order.
+xspring-mobile-app:
+- Fix padding-next-button
+- Fix add try catch on update personal function
+
+Stuck:
+
+Tomorrow:
+- Sprint review.
+22 July 2024
+Today:
+onboarding-service:
+- XM-1250 Fix Convert document type for display.
+xspring-mobile-app:
+- Bump version to 1.9.1 build 2.
+- Fix upload bank account name from Thai to Eng.
+web-portal:
+- XM-1189 Improve kyc detail UI.
+
+Stuck:
+
+Tomorrow:
+- Release day.
+19 July 2024
+Today:
+onboarding-service:
+- XM-1108 Get valuable investor.
+- Fix remove point of response model.
+- XM-1111 Fix/No investment knowledge flag.
+- XM-1164 Refresh led.
+- XM-1074 Repost DOPA Verification.
+
+Tomorrow:
+- Work on sprint.
+18 July 2024
+Today:
+- Product backlog refinement.
+onboarding-service:
+- XM-1075 Dopa save temp.
+- XM-1164 Create service for looping watchlist errors.
+
+Tomorrow:
+- XM-1074 Create repost dopa verification.
+17 July 2024
+Today:
+- Investigate why dopa can't save result to db.
+onboarding-service:
+- Xm 1127 support versions env.
+- Xm-1075 dopa-save-temp: create column, test saving result.
+argo-cd:
+- Add env variable for supported version.
+Stuck:
+
+
+Tomorrow:
+- Test saving dopa request on succession of request.
+16 July 2024
+Today:
+onboarding-service:
+- Fix/dopa response lint.
+- XM-1127 Create env for supported version.
+xspring-mobile-app:
+- XM-985 Fix/iOS open store.
+- Pump version 1.8.3(2).
+- XM-1113 Fix complete draft color.
+
+
+Tomorrow:
+- Update env file in gitops.
+15 July 2024
+Today:
+- Planning.
+- Begin to do this sprint's tasks.
+- Look for a reason why color that show on banner of TO-REVIEW is green.
+
+
+Tomorrow:
+- Fix onboarding banner.
+12 July 2024
+Today:
+- Sprint planning part 2.
+- Git flow working agreement.
+- Go structure touring.
+
+
+Tomorrow:
+- Continue planning.
