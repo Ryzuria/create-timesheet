@@ -1,6 +1,6 @@
 # create-timesheet
 
-This is a script to create timesheet from checkout data from basecamp from currently month.
+This is a script to create timesheet from checkout data, get the data from basecamp currently mounth
 
 > Note: Need to manually copy cookies from your browser.
 
